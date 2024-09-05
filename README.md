@@ -1,5 +1,6 @@
 # Parallax Interactive
 *noun*
+
 'the effect whereby the position or direction of an object appears to differ when viewed from different positions, e.g. through the viewfinder and the lens of a camera.'
 
 ## Who are we?
